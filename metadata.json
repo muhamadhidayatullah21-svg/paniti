@@ -1,0 +1,8 @@
+{
+  "name": "E-Voting OSIS SMK Lentera Bangsa 2",
+  "description": "Aplikasi Web E-Voting Pemilihan Ketua & Wakil Ketua OSIS SMK Lentera Bangsa 2 dengan sistem Multi-Client Real-Time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

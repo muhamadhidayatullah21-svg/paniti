@@ -1,0 +1,91 @@
+{
+  "settings": {
+    "namaSekolah": "SMK Lentera Bangsa 2",
+    "namaAcara": "Pemilihan Ketua & Wakil Ketua OSIS",
+    "tahunAjaran": "2026/2027",
+    "statusVoting": "active",
+    "logoSekolahUrl": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=300&auto=format&fit=crop&q=80",
+    "allowAutoRegisterDPT": true,
+    "pengumuman": "Selamat datang di E-Voting OSIS SMK Lentera Bangsa 2! Gunakan hak suara Anda secara Luber dan Jurdil (Langsung, Umum, Bebas, Rahasia, Jujur, dan Adil)."
+  },
+  "adminPasswordHash": "panitia2026",
+  "paslon": [
+    {
+      "id": "paslon-1",
+      "nomorUrut": "01",
+      "namaKetua": "Muhammad Farhan Al-Fatih",
+      "namaWakil": "Aisyah Putri Zahra",
+      "kelasKetua": "XI Teknik Komputer & Jaringan 1",
+      "kelasWakil": "X Rekayasa Perangkat Lunak 2",
+      "fotoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+      "slogan": "BERSATU KREATIF, BERGERAK DIGITAL, WUJUDKAN SMK UNGGUL!",
+      "visi": "Menjadikan OSIS SMK Lentera Bangsa 2 sebagai wadah kolaborasi siswa yang inovatif, berkarakter mulia, adaptif dengan teknologi industri, dan berjiwa wirausaha muda.",
+      "misi": [
+        "Meningkatkan keimanan dan solidaritas antar jurusan melalui kegiatan keagamaan dan bakti sosial.",
+        "Mengembangkan minat bakat siswa di bidang sains, IT, olahraga, dan seni berbasis digital creative hub.",
+        "Menjalin sinergi erat dengan guru, mitra industri, dan alumni untuk memperluas peluang magang dan karir.",
+        "Menciptakan iklim sekolah yang inklusif, bebas perundungan (anti-bullying), dan ramah lingkungan."
+      ],
+      "programUnggulan": [
+        "Lentera Tech & Creative Expo Tahunan",
+        "Pekan Olahraga & E-Sports Championship Antar Kelas (PORSENI)",
+        "Kotak Aspirasi Digital Siswa Real-time (LenteraVoice)",
+        "Gerakan Bank Sampah & Green School Initiative"
+      ],
+      "suara": 0,
+      "warnaTema": "#06b6d4"
+    },
+    {
+      "id": "paslon-2",
+      "nomorUrut": "02",
+      "namaKetua": "Bagas Arya Pratama",
+      "namaWakil": "Nabila Syakira Dewi",
+      "kelasKetua": "XI Rekayasa Perangkat Lunak 1",
+      "kelasWakil": "XI Otomatisasi Tata Kelola Perkantoran 1",
+      "fotoUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=600&auto=format&fit=crop&q=80",
+      "slogan": "AKSI NYATA, DISIPLIN PRESTASI, SUARAKAN INOVASI GENERASI!",
+      "visi": "Mewujudkan OSIS yang responsif, transparan, berintegritas tinggi, serta menjadi pionir prestasi akademik dan non-akademik di tingkat regional maupun nasional.",
+      "misi": [
+        "Mengoptimalkan peran ekstrakurikuler sebagai inkubator prestasi sekolah.",
+        "Menyelenggarakan forum diskusi terbuka 'Temu OSIS & Perwakilan Kelas' secara berkala tiap bulan.",
+        "Mendorong literasi digital, kepemimpinan kepemudaan, dan sertifikasi keahlian siswa SMK.",
+        "Memperkuat kedisiplinan dan rasa kepemilikan terhadap almamater SMK Lentera Bangsa 2."
+      ],
+      "programUnggulan": [
+        "Lentera Leadership Bootcamp & Mentorship",
+        "Festival Seni & Musik Akustik Kampus 2 (Lentera Fest)",
+        "Satu Siswa Satu Karya (Pameran Karya Portofolio Siswa)",
+        "Program Jumat Berkah Berbagi & Clean Campus Squad"
+      ],
+      "suara": 0,
+      "warnaTema": "#8b5cf6"
+    },
+    {
+      "id": "paslon-3",
+      "nomorUrut": "03",
+      "namaKetua": "Rizky Dwi Ramadhan",
+      "namaWakil": "Clarissa Jessica Anggraini",
+      "kelasKetua": "XI Teknik Bisnis Sepeda Motor 1",
+      "kelasWakil": "X Akuntansi Keuangan Lembaga 1",
+      "fotoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&auto=format&fit=crop&q=80",
+      "slogan": "KOMPAK BERSAMA, BERKARYA TANPA BATAS, BANGKITKAN SEMANGAT JUARA!",
+      "visi": "Membangun karakter siswa SMK Lentera Bangsa 2 yang mandiri, berdaya saing global, beretika profesional, dan berwawasan lingkungan.",
+      "misi": [
+        "Meningkatkan apresiasi bakat vokasi dan karya inovasi praktikum siswa.",
+        "Mengadakan workshop kewirausahaan muda 'Studentpreneur' dengan praktisi UMKM.",
+        "Mewadahi aspirasi seluruh jurusan secara adil dan merata tanpa kesenjangan.",
+        "Memaksimalkan publikasi media sosial OSIS dengan konten edukatif dan kekinian."
+      ],
+      "programUnggulan": [
+        "Lentera Skill Olympiad & Vocation Fest",
+        "Podcast OSIS 'Lentera Talks': Inspirasi Anak SMK",
+        "Pekan Sehat Mental & Konseling Sahabat Sebaya",
+        "Revitalisasi Fasilitas Santai & Spot Kreatif Siswa"
+      ],
+      "suara": 0,
+      "warnaTema": "#10b981"
+    }
+  ],
+  "dpt": [],
+  "votes": []
+}
